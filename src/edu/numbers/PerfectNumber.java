@@ -13,7 +13,7 @@ public class PerfectNumber {
 		if(sum==n) {
 			System.out.println("It is Perfect number");
 		}else {
-			System.out.println("It is not perfect number");
+			System.out.println("It is not perfect number....");
 		}
 
 	}
