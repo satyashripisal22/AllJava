@@ -20,6 +20,7 @@ public class CapitalizeEachWordInString {
 			}
 		}
 		System.out.println(ns);
+		System.out.println("successful");
 
 	}
 
